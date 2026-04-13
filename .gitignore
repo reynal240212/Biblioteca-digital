@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+.ruff_cache/
+
+# Base de Datos
+# *.db
+*.sqlite3
+
+# Multimedia y Archivos Pesados
+app/static/
+*.pdf
+
+# IDEs
+.vscode/
+.idea/
+tools/
+
+# OS
+.DS_Store
+Thumbs.db

@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+aiofiles
+email-validator
+passlib[bcrypt]
+bcrypt==4.0.1
+psycopg2-binary
+mangum
+python-jose[cryptography]
+python-multipart
